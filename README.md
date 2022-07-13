@@ -1,7 +1,7 @@
-# frontend-test
+# Rick and Morty App
 
 ## Projeto
-O projeto utiliza-se da api do seriado Rick and Morty. É apresentada uma listagem dos personagens, com uma paginação. Além disso, há um filtro, que se pode utilizar dos parâmetros passados pela url. Ao clicar em um personagem, há o direcionamento para um página com mais detalhes deste personagem. Por fim, há os temas dark e light.
+Projeto desenvolvido como desafio para uma vaga de front-end. O projeto utiliza-se da api do seriado Rick and Morty. É apresentada uma listagem dos personagens, com uma paginação. Além disso, há um filtro, que se pode utilizar dos parâmetros passados pela url. Ao clicar em um personagem, há o direcionamento para um página com mais detalhes deste personagem. Por fim, há os temas dark e light.
 
 ## Tecnologias
 - [React](https://pt-br.reactjs.org/docs/getting-started.html)
@@ -22,9 +22,9 @@ O projeto utiliza-se da api do seriado Rick and Morty. É apresentada uma listag
 **Clone o projeto com o comando abaixo e acesse a pasta**
 ```bash
 
-$ git clone https://github.com/LeandroFilie/frontend-test.git
+$ git clone https://github.com/LeandroFilie/rick-morty-app.git
 
-$ cd rick-and-morty-app
+$ cd rick-morty-app
 ```
 
 **Siga os passos a seguir**
